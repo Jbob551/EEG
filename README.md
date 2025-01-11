@@ -1,2 +1,7 @@
 # EEG
-Scripts e análises relacionados à captura e processamento de sinais EEG, incluindo pré-processamento, análise de ERPs, e estudos de potenciais motores e visuais com foco em neurociência e reabilitação.
+Este repositório contém scripts e recursos para análise de sinais EEG. Ele inclui:
+
+Métodos de pré-processamento, como filtros, ICA e epocagem.
+Análise de ERPs (N200, P300, N400) e ERD/ERS.
+Visualização de dados e interpretação de padrões eletrofisiológicos.
+Ideal para estudos em neurociência e desenvolvimento de interfaces cérebro-máquina.
